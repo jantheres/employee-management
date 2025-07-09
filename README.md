@@ -14,4 +14,4 @@ This is a Java Spring Boot application to manage employees and departments.
 ## 🚀 Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/employee-management.git
+   git clone https://github.com/jantheres/employee-management
